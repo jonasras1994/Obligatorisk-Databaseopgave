@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelRest", "HotelRest\HotelRest.csproj", "{D16E8B9C-8D76-4297-8DDC-AF002544CE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelApp", "HotelApp\HotelApp.csproj", "{6FC650EA-7DD9-4198-AA5E-B2D3B50095AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelModel", "HotelModel\HotelModel.csproj", "{8B27486A-7691-4394-83C9-40172F53B243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16E8B9C-8D76-4297-8DDC-AF002544CE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16E8B9C-8D76-4297-8DDC-AF002544CE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16E8B9C-8D76-4297-8DDC-AF002544CE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16E8B9C-8D76-4297-8DDC-AF002544CE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC650EA-7DD9-4198-AA5E-B2D3B50095AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC650EA-7DD9-4198-AA5E-B2D3B50095AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC650EA-7DD9-4198-AA5E-B2D3B50095AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC650EA-7DD9-4198-AA5E-B2D3B50095AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B27486A-7691-4394-83C9-40172F53B243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B27486A-7691-4394-83C9-40172F53B243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B27486A-7691-4394-83C9-40172F53B243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B27486A-7691-4394-83C9-40172F53B243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0899AC-6460-4AD3-94EB-FE7B0028AA18}
+	EndGlobalSection
+EndGlobal
